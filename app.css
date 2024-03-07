@@ -6,7 +6,7 @@ body{
 #mainNavbar{
     font-size: 1.5rem;
     font-weight: 100;
-
+    padding-left: 10px;
 }
 
 #mainNavbar .nav-link{
